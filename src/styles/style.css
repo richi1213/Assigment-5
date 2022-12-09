@@ -1,0 +1,113 @@
+.black_div {
+  background-color: black;
+  width: 363.33px;
+  height: 232px;
+}
+
+.blue_div {
+  background-color: blue;
+  width: 32px;
+  height: 32px;
+}
+
+.green_div {
+  background-color: green;
+  width: 32px;
+  height: 32px;
+}
+
+.red_div {
+  background-color: red;
+  width: 32px;
+  height: 32px;
+}
+
+p {
+  color: #9893a3;
+}
+
+footer .container {
+  width: 50%;
+}
+
+footer .d-flex.justify-content-between img {
+  width: 40px;
+  height: 15px;
+}
+
+li:hover {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.9192051820728291) 0%,
+    rgba(108, 99, 255, 0.39539565826330536) 63%
+  );
+}
+
+.get_started {
+  width: 130px;
+  height: 40px;
+  background-color: #6c63ff;
+  color: white;
+  border: none;
+}
+
+.login {
+  width: 90px;
+  height: 51px;
+  background-color: white;
+  color: #6c63ff;
+  border: none;
+}
+
+.learn_more {
+  border: none;
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.10407913165266103) 37%,
+    rgba(47, 46, 65, 0.20772058823529416) 91%
+  );
+}
+
+.view_all {
+  color: #6c63ff;
+  border-color: #6c63ff;
+}
+
+#section6 .row {
+  background-color: #2f2e41;
+}
+
+#section6 h3 {
+  color: white;
+}
+
+#section6 .container {
+  background-color: #2f2e41;
+  width: 80%;
+  height: 300px;
+}
+
+#section4 .col-md-4 {
+  height: 421px;
+}
+
+.premium {
+  background-color: #6c63ff;
+  color: white;
+  height: 502px;
+}
+
+.premium button {
+  background-color: white;
+  color: #6c63ff;
+}
+
+.premium p {
+  color: white;
+}
+
+span {
+  font-size: 50px;
+}
